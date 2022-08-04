@@ -1,6 +1,5 @@
 from audioop import add
-import re
-from tkinter import E
+
 from Server.Database import Bodyparts_collection ,Exercise_collection ,Workout_collection
 from bson.objectid import ObjectId
 import os
