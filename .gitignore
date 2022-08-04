@@ -1,0 +1,29 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# static files
+/Project/Server/static
+Project/Server/static
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/__pycache__
+.__pycache__
+*.py[cod]
+*$py.class
+
+
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/

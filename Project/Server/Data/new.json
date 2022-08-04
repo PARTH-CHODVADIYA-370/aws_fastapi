@@ -1,0 +1,96 @@
+{
+    "Name": "Calories",
+    "Value": "44",
+    "Data": [
+        {
+            "Percentage": "1%",
+            "Value": "0.3g",
+            "Name": "Fat"
+        },
+        {
+            "Percentage": "0%",
+            "Value": "0.1g",
+            "Name": "Saturated Fat"
+        },
+        {
+            "Percentage": "0%",
+            "Value": "0g",
+            "Name": "Trans Fat"
+        },
+        {
+            "Percentage": "0%",
+            "Value": "0.2g",
+            "Name": "Polyunsaturated Fat"
+        },
+        {
+            "Percentage": "0%",
+            "Value": "0g",
+            "Name": "Monounsaturated Fat"
+        },
+        {
+            "Percentage": "0%",
+            "Value": "0mg",
+            "Name": "Cholesterol"
+        },
+        {
+            "Percentage": "0%",
+            "Value": "1.3mg",
+            "Name": "Sodium"
+        },
+        {
+            "Percentage": "5%",
+            "Value": "183mg",
+            "Name": "Potassium"
+        },
+        {
+            "Percentage": "3%",
+            "Value": "9.9g",
+            "Name": "Carbohydrates"
+        },
+        {
+            "Percentage": "16%",
+            "Value": "4g",
+            "Name": "Dietary Fiber"
+        },
+        {
+            "Percentage": "0%",
+            "Value": "4.5g",
+            "Name": "Sugars"
+        },
+        {
+            "Percentage": "0%",
+            "Value": "2.4g",
+            "Name": "Protein"
+        }
+    ],
+    "Vitamins": [
+        {
+            "percentage": "16%",
+            "Name": "Vitamin A"
+        },
+        {
+            "percentage": "20%",
+            "Name": "Vitamin C"
+        },
+        {
+            "percentage": "4.2%",
+            "Name": "Calcium"
+        },
+        {
+            "percentage": "4.5%",
+            "Name": "Iron"
+        }
+    ],
+    "question": "How long would it take to burn off 45 KCal?",
+    "QuestionsData": [
+        {
+            "Walking (3mph)": "12 minutes"
+        },
+        {
+            "Running (6mph)": "4 minutes"
+        },
+        {
+            "Bicycling (10mph)": "6 minutes"
+        }
+    ]
+}
